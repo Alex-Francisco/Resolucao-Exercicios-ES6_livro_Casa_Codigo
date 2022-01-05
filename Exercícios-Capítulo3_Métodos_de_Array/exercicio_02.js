@@ -11,6 +11,4 @@ function dobrar(numerosInteiros) {
     });
 }
 
-
-
 console.log(dobrar([1, 2, 3]));
